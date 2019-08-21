@@ -1,5 +1,5 @@
 # Baidu-Tieba-Scrapy-Wordcloud-Sample
-百度贴吧爬取回复、生成词云示例
+Code sample for downloading post content with replies and generating customized wordcloud.
 ## Tieba crawler
 Data format sample
 
